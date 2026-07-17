@@ -30,7 +30,7 @@ Esse estudo busca realizar as mesmas análises realizadas no projeto original, a
 ![Nome da Tela](Link da Imagem)
 
 
-### 7. Análise 2 - Faturamento Mensal
+### Análise 2 - Faturamento Mensal
 
 ### Análise 3 - Vendas Por Estado
 
