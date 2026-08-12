@@ -27,7 +27,15 @@ Esse estudo busca realizar as mesmas análises realizadas no projeto original, a
 
 ### Análise 1 - Top 10 Produtos Mais Vendidos
 
+
 ![Top 10 Produtos Mais Vendidos](./img/grafico%201.png)
+
+
+A primeira análise proposta se trata dos 10 produtos mais vendidos.
+
+Como a base de dados geradas é diferente da usada pela DSA, os produtos ocupam lugares diferentes dos originais nesse ranking.
+
+Neste caso, o teclado mecânico é o produto mais vendido. O laptop gamer ocupa a segunda posição e o Headset fica em terceiro. A placa de vídeo é o produto menos vendido.
 
 
 ### Análise 2 - Faturamento Mensal
