@@ -39,7 +39,6 @@ Neste caso, o teclado mecânico é o produto mais vendido. O laptop gamer ocupa 
 
 
 ### Análise 2 - Faturamento Mensal
-
 <br>
 
 #### Gráfico de Barras do Faturamento Mensal
