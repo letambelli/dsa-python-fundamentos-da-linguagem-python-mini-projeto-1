@@ -40,9 +40,11 @@ Neste caso, o teclado mecânico é o produto mais vendido. O laptop gamer ocupa 
 
 ### Análise 2 - Faturamento Mensal
 
+#### Gráfico de Barras do Faturamento Mensal
+
 ![Faturamento Mensal](./img/grafico%202.png)
 
-
+A segunda análise proposta se refere ao faturamento mensal. Com esse gráfico de barras, é possível vizualizar e comparar o faturamento de cada mês.
 
 ### Análise 3 - Vendas Por Estado
 
