@@ -4,7 +4,7 @@ Realização do Mini Projeto 1 do curso *Fundamentos de Linguagem Python – Do 
 
 <br>
 
-## Objetivo
+# Objetivo
 
 O objetivo desse projeto é refazer o Mini Projeto 1 do curso "Fundamentos de Linguagem Python - Do Básico a Aplicações de IA da DSA" para ter um melhor entendimento das aulas e do conteúdo estudado.
 
@@ -12,7 +12,7 @@ Esse estudo busca realizar as mesmas análises realizadas no projeto original, a
 
 <br>
 
-## Tecnlogias Utilizadas
+# Tecnlogias Utilizadas
 
 - Python
     - pandas
@@ -24,9 +24,9 @@ Esse estudo busca realizar as mesmas análises realizadas no projeto original, a
 
 <br>
 
-## Análises Realizadas
+# Análises Realizadas
 
-### Análise 1 - Top 10 Produtos Mais Vendidos
+## Análise 1 - Top 10 Produtos Mais Vendidos
 
 
 ![Top 10 Produtos Mais Vendidos](./img/grafico%201.png)
@@ -40,15 +40,15 @@ Neste caso, o teclado mecânico é o produto mais vendido. O laptop gamer ocupa 
 
 <br>
 
-### Análise 2 - Faturamento Mensal
+## Análise 2 - Faturamento Mensal
 
-#### Gráfico de Barras do Faturamento Mensal
+### Gráfico de Barras do Faturamento Mensal
 
 ![Faturamento Mensal](./img/grafico%202.png)
 
 A segunda análise proposta se refere ao faturamento mensal. Com esse gráfico de barras, é possível vizualizar e comparar o faturamento de cada mês.
 
-#### Gráfico de Linha do Faturamento Mensal
+### Gráfico de Linha do Faturamento Mensal
 
 ![Faturamento Mensal](./img/grafico%203.png)
 
@@ -56,8 +56,8 @@ Além do gráfico de barras, foi também elaborado um gráfico de linhas para a 
 
 <br>
 
-### Análise 3 - Vendas Por Estado
+## Análise 3 - Vendas Por Estado
 
-### Análise 4 - Faturamento Por Categoria
+## Análise 4 - Faturamento Por Categoria
 
-### Análises Adicionais
+## Análises Adicionais
