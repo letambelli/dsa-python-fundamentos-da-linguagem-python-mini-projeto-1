@@ -60,6 +60,12 @@ Além do gráfico de barras, foi também elaborado um gráfico de linhas para a 
 
 ## Análise 3 - Vendas Por Estado
 
+![Vendas Por Estado](./img/grafico%204.png)
+
+A terceira análise proposta é referente às vendas de cada estado do Brasil. Nele é possível perceber que as maiores vendas são as do Rio de Janeiro, enquanto as menores são as da Bahia.
+
+<br>
+
 ## Análise 4 - Faturamento Por Categoria
 
 ## Análises Adicionais
