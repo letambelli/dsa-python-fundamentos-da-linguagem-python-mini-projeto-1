@@ -1,9 +1,8 @@
 # Mini Projeto 1
 
-# Nome do Projeto
+Realização do Mini Projeto 1 do curso *Fundamentos de Linguagem Python – Do Básico a Aplicações de IA*, desenvolvido com finalidade de estudo e prática dos conceitos apresentados ao longo do curso.
 
-Fazendo o Mini Projeto 1 da minha maneira para estudo.
-
+<br>
 
 ## Objetivo
 
@@ -11,6 +10,7 @@ O objetivo desse projeto é refazer o Mini Projeto 1 do curso "Fundamentos de Li
 
 Esse estudo busca realizar as mesmas análises realizadas no projeto original, além de outras análises adicionais.
 
+<br>
 
 ## Tecnlogias Utilizadas
 
@@ -22,6 +22,7 @@ Esse estudo busca realizar as mesmas análises realizadas no projeto original, a
     - random
     - datetime
 
+<br>
 
 ## Análises Realizadas
 
@@ -37,9 +38,9 @@ Como a base de dados geradas é diferente da usada pela DSA, os produtos ocupam 
 
 Neste caso, o teclado mecânico é o produto mais vendido. O laptop gamer ocupa a segunda posição e o Headset fica em terceiro. A placa de vídeo é o produto menos vendido.
 
+<br>
 
 ### Análise 2 - Faturamento Mensal
-<br>
 
 #### Gráfico de Barras do Faturamento Mensal
 
@@ -52,6 +53,8 @@ A segunda análise proposta se refere ao faturamento mensal. Com esse gráfico d
 ![Faturamento Mensal](./img/grafico%203.png)
 
 Além do gráfico de barras, foi também elaborado um gráfico de linhas para a melhor vizualização do progresso do faturamento nesses meses.
+
+<br>
 
 ### Análise 3 - Vendas Por Estado
 
