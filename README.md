@@ -75,3 +75,13 @@ Nesta última análise proposta pela DSA, os produtos são segmentados por categ
 No gráfico é possível vizualizar que a maior parte do faturamento vem da venda de eletrônicos, enquando a menor vem de móveis.
 
 ## Análises Adicionais
+
+### Análise Adicional 1 - Produtos que Mais Geram Faturamento
+
+### Análise Adicional 2 - Quantidade Vendida por Categoria
+
+### Análise Adicional 3 - Quantidade Vendida por Categoria
+
+### Análise Adicional 4 - Faturamento por cidade
+
+### Análise Adicional 5 - Relação entre preço e quantidade
