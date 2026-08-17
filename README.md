@@ -68,4 +68,10 @@ A terceira análise proposta é referente às vendas de cada estado do Brasil. N
 
 ## Análise 4 - Faturamento Por Categoria
 
+![Faturamento Por Categoria](./img/grafico%205.png)
+
+Nesta última análise proposta pela DSA, os produtos são segmentados por categoria, permitindo que o gráfico evidencie o faturamento de cada uma delas.
+
+No gráfico é possível vizualizar que a maior parte do faturamento vem da venda de eletrônicos, enquando a menor vem de móveis.
+
 ## Análises Adicionais
