@@ -88,6 +88,14 @@ Com o gráfico é possível perceber que o Laptop Gamer é o produto que corresp
 
 ### Análise Adicional 2 - Quantidade Vendida por Categoria
 
+![Quantidade Vendida por Categoria (Pizza)](./img/grafico%207.png)
+
+Para essa análise foram feitos 2 gráficos, um de pizza facilitando a vizualização da porcentagem de vendas de cada categoria de produtos, e um de barras que evidencia a quantida vendida de cada categoria.
+
+![Quantidade Vendida por Categoria (Barras)](./img/grafico%208.png)
+
+Em ambos é possível perceber que os acessórios correspondem à maior quantia de produtos vendidos, enquanto móveis corresponde a categoria que vende menos.
+
 ### Análise Adicional 3 - Faturamento por cidade
 
 ### Análise Adicional 4 - Relação entre preço e quantidade
