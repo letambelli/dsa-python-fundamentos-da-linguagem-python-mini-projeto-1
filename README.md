@@ -88,8 +88,6 @@ Com o gráfico é possível perceber que o Laptop Gamer é o produto que corresp
 
 ### Análise Adicional 2 - Quantidade Vendida por Categoria
 
-### Análise Adicional 3 - Quantidade Vendida por Categoria
+### Análise Adicional 3 - Faturamento por cidade
 
-### Análise Adicional 4 - Faturamento por cidade
-
-### Análise Adicional 5 - Relação entre preço e quantidade
+### Análise Adicional 4 - Relação entre preço e quantidade
