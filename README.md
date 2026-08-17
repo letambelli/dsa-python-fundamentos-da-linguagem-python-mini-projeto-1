@@ -14,6 +14,8 @@ Esse estudo busca realizar as mesmas análises realizadas no projeto original, a
 
 # Tecnlogias Utilizadas
 
+- Excel
+- Jupyter Notebook
 - Python
     - pandas
     - numpy
