@@ -80,6 +80,12 @@ No gráfico é possível vizualizar que a maior parte do faturamento vem da vend
 
 ### Análise Adicional 1 - Produtos que Mais Geram Faturamento
 
+![Produtos que Mais Geram Faturamento](./img/grafico%206.png)
+
+Nesta primeira análise adicional, foi feito uma análise similar à feita anteriormente dos produtos mais vendidos porém focando no faturamento dos mesmos produtos.
+
+Com o gráfico é possível perceber que o Laptop Gamer é o produto que corresponde à maior parte da receita, enquanto o Mouse Vertical corresponde à menor.
+
 ### Análise Adicional 2 - Quantidade Vendida por Categoria
 
 ### Análise Adicional 3 - Quantidade Vendida por Categoria
