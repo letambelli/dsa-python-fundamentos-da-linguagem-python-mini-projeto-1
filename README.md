@@ -96,6 +96,6 @@ Para essa análise foram feitos 2 gráficos, um de pizza facilitando a vizualiza
 
 Em ambos é possível perceber que os acessórios correspondem à maior quantia de produtos vendidos, enquanto móveis corresponde a categoria que vende menos.
 
-### Análise Adicional 3 - Faturamento por cidade
+### Análise Adicional 3 - Faturamento por Cidade
 
-### Análise Adicional 4 - Relação entre preço e quantidade
+### Análise Adicional 4 - Relação Entre Preço e Quantidade
