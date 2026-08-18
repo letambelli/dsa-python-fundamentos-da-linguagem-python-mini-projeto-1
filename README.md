@@ -76,6 +76,8 @@ Nesta última análise proposta pela DSA, os produtos são segmentados por categ
 
 No gráfico é possível vizualizar que a maior parte do faturamento vem da venda de eletrônicos, enquando a menor vem de móveis.
 
+<br>
+
 ## Análises Adicionais
 
 ### Análise Adicional 1 - Produtos que Mais Geram Faturamento
@@ -85,6 +87,8 @@ No gráfico é possível vizualizar que a maior parte do faturamento vem da vend
 Nesta primeira análise adicional, foi feito uma análise similar à feita anteriormente dos produtos mais vendidos porém focando no faturamento dos mesmos produtos.
 
 Com o gráfico é possível perceber que o Laptop Gamer é o produto que corresponde à maior parte da receita, enquanto o Mouse Vertical corresponde à menor.
+
+<br>
 
 ### Análise Adicional 2 - Quantidade Vendida por Categoria
 
@@ -96,10 +100,14 @@ Para essa análise foram feitos 2 gráficos, um de pizza facilitando a vizualiza
 
 Em ambos é possível perceber que os acessórios correspondem à maior quantia de produtos vendidos, enquanto móveis corresponde a categoria que vende menos.
 
+<br>
+
 ### Análise Adicional 3 - Faturamento por Cidade
 
 ![Faturamento por Cidade](./img/grafico%209.png)
 
 Aqui está sendo analisado o faturamento de cada cidade, comparando quais cidades tem maior e menor faturamento. Dessa maneira, nota-se que o maior faturamento é do Rio de Janeiro, enquanto o menor é de Fortaleza.
+
+<br>
 
 ### Análise Adicional 4 - Relação Entre Preço e Quantidade
