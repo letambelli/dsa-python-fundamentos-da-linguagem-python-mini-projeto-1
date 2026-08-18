@@ -98,4 +98,8 @@ Em ambos é possível perceber que os acessórios correspondem à maior quantia 
 
 ### Análise Adicional 3 - Faturamento por Cidade
 
+![Faturamento por Cidade](./img/grafico%209.png)
+
+Aqui está sendo analisado o faturamento de cada cidade, comparando quais cidades tem maior e menor faturamento. Dessa maneira, nota-se que o maior faturamento é do Rio de Janeiro, enquanto o menor é de Fortaleza.
+
 ### Análise Adicional 4 - Relação Entre Preço e Quantidade
