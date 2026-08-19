@@ -111,3 +111,9 @@ Aqui está sendo analisado o faturamento de cada cidade, comparando quais cidade
 <br>
 
 ### Análise Adicional 4 - Relação Entre Preço e Quantidade
+
+![Relação Entre Preço e Quantidade](./img/grafico%2010.png)
+
+Nessa última análise, temos a correlação entre o preço do produto e a quantidade vendida dele. 
+
+Com esse gráfico podemos perceber que há uma relaçao negativa fraca entre as duas variáveis, ou seja, há uma leve tendência que, quando o produto é mais barato, as suas vendas são maiores.
